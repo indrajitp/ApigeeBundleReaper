@@ -22,7 +22,7 @@ The only prerequisites not handled during the installation are a functional Node
 	
 Clone the bundle-reaper repository to your local machine:
 
-	ApigeeCorporation$ git clone https://github.com/apigeecs/ApigeeBundleReaper.git
+	ApigeeCorporation$ git clone https://github.com/indrajitp/ApigeeBundleReaper.git
 
 Alternatively you can download the zip file via the GitHub home page and unzip the archive.
 
